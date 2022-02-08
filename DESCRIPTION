@@ -1,0 +1,12 @@
+Package: BCSCount
+Type: Package
+Title: Credible subgroups for Count data
+Version: 1.1.1
+Author: Daniel Quartey
+Maintainer: Daniel Quartey <dannikwaj@gmail.com>
+Description: Functions that estimate coefficients of a regression and calcluate the PTE and finally identify characteristics of individuals that benefit from a treatment for  count endpoints.
+License:AGPL (>= 3)
+Encoding: UTF-8
+Imports: ggplot2, rjags, credsubs
+LazyData: true
+RoxygenNote: 7.1.2
